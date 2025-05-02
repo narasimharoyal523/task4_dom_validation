@@ -22,9 +22,6 @@
 
 task4_dom_validation/ ├── views/ │ └── index.ejs ├── public/ │ └── script.js ├── server.js ├── package.json
 
-yaml
-Copy code
-
 ---
 
 ## 🎯 Features
@@ -44,21 +41,15 @@ Copy code
 1. Navigate to the folder:
    ```bash
    cd task4_dom_validation
-Install required packages:
-
-bash
-Copy code
-npm install
-Start the server:
-
-bash
-Copy code
-node server.js
-Visit in browser:
-
-arduino
-Copy code
-http://localhost:3000
+2. Install required packages:
+   ```bash
+   npm install
+3. Start the server:\
+   ```bash
+   node server.js
+4. Visit in browser:
+   ```bash
+   http://localhost:3000
 💡 How It Works
 The form checks:
 
